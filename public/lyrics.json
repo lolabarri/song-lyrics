@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Pueblo de reyes",
+    "type": "Entrada",
+    "lyrics": "Pueblo de reyes,\n asamblea santa,\n pueblo sacerdotal,\n pueblo de Dios,\n bendice a tu Señor."
+  },
+  {
+    "id": 2,
+    "name": "Juntos como hermanos",
+    "type": "Entrada",
+    "lyrics": "Juntos como hermanos,\n miembros de una Iglesia,\n vamos caminando,\n al encuentro del Señor."
+  }
+]
