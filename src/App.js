@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import lyrics from "../public/lyrics.json";
 import TypeCard from "./components/TypeCard/TypeCard";
 
 function App() {
